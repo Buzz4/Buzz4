@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Buzz4
+- 👋 Hi, I’m Luca @Buzz4
 - 👀 I’m interested in videogames, technology and football
 - 🌱 I’m currently learning how to code in TNV Academy
 
